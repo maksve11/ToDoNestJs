@@ -4,7 +4,7 @@
 
 - NodeJs 18.16.10
 
-- NestJs 
+- NestJs 9.0.0
 
 - Docker
 
